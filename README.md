@@ -3,4 +3,5 @@
 
 * Added 3D Player model;
 * Low Ammo Indicators enabled;
-* Black outline to damage numbers
+* Black outline to damage numbers;
+* Added Killstreak On Winpanel
