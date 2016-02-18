@@ -1,4 +1,4 @@
-Omp's HUD With My Modifications:
+[Omp's HUD](https://github.com/omp/tf2hud) With My Modifications:
 ==========
 
 * Added 3D Player model;
